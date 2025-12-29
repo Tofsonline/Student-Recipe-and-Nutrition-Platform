@@ -44,6 +44,9 @@ Ensure **Node.js** is installed on your computer.
 5. **View the app**
    Open your browser and go to `http://localhost:5173`.
 
+**Or Using Github Pages:**
+https://tofsonline.github.io/Student-Recipe-and-Nutrition-Platform/
+
 ## Developer
 
 - **Name:** Akinwunmi Jesutofunmi Diekoloreoluwa
