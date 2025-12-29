@@ -30,7 +30,7 @@ Ensure **Node.js** is installed on your computer.
 ### Installation
 
 1. **Clone the repository** (or download the source code) :
-   Using the Terminal; `git clone`
+   Using the Terminal; `git clone https://github.com/Tofsonline/Student-Recipe-and-Nutrition-Platform`
 
 2. **Navigate to the project folder**
    Using the Terminal; `cd bells-nutrition-app`
