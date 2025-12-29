@@ -14,10 +14,10 @@ This project was developed as part of the **ICT 235** course.
 
 ## Tech Stack & Dependencies
 
-The project is built using the following technologies:
+The project is built using the following technologies and frameworks:
 
 - **Frontend Framework:** React.js (Vite)
-- **Styling:** CSS3 & Bootstrap 5
+- **Styling:** CSS & Bootstrap 5
 - **Icons:** Bootstrap Icons
 - **Carousel/Slider:** React-Slick & Slick-Carousel
 
@@ -25,23 +25,23 @@ The project is built using the following technologies:
 
 ### Prerequisites
 
-Ensure you have **Node.js** installed on your computer.
+Ensure **Node.js** is installed on your computer.
 
 ### Installation
 
 1. **Clone the repository** (or download the source code) :
    Using the Terminal; git clone
 
-2. **Navigate to the project folder**:
+2. **Navigate to the project folder**
    Using the Terminal; cd bells-nutrition-app
 
-3. **Install the required dependencies**:
+3. **Install the required dependencies**
    Using the Terminal; npm install react-slick slick-carousel bootstrap-icons bootstrap
 
-4. **Run the development server**:
+4. **Run the development server**
    Using the Terminal; npm run dev
 
-5. **View the app**:
+5. **View the app**
    Open your browser and go to `http://localhost:5173`.
 
 ## Developer
@@ -49,7 +49,7 @@ Ensure you have **Node.js** installed on your computer.
 - **Name:** Akinwunmi Jesutofunmi Diekoloreoluwa
 - **Matric No:** 2024/13710
 - **Course:** ICT 235 (Software Engineering/Web Development)
-- **Institution:** Bells University of Technology, Ota.
+- **University:** Bells University of Technology.
 
 ```
 
