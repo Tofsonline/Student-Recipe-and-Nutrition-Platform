@@ -6,11 +6,11 @@ This project was developed as part of the **ICT 235** course.
 
 ### Key Features
 
-- **27 Student Recipes:**
-- **Nutritional Tracking:**
-- **Dynamic Search:**
-- **Interactive UI:**
-- **Responsive Design:**
+- **27 Student Recipes**
+- **Nutritional Tracking**
+- **Dynamic Search**
+- **Interactive UI**
+- **Responsive Design**
 
 ## Tech Stack & Dependencies
 
