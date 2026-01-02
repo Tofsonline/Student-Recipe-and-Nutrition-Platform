@@ -47,9 +47,15 @@ Ensure **Node.js** is installed on your computer.
 **Or Using Github Pages:**
 https://tofsonline.github.io/Student-Recipe-and-Nutrition-Platform/
 
-## Developer
+## Developers
 
-- **Name:** Akinwunmi Jesutofunmi Diekoloreoluwa
-- **Matric No:** 2024/13710
+- **Name & Matric No:**
+
+1. Akinwunmi Jesutofunmi Diekoloreoluwa 2024/13710
+2. Adeniyi Fiyinfoluwa Fruitful 2024/13718
+3. Daini Kehinde Adeayo 2025/14662
+4. Asogba 0lamide Mauklo 2025/14511
+5. Awofeso Anjolaoluwa Ruth 2025/14523
+
 - **Course:** ICT 235 (Software Engineering/Web Development)
 - **University:** Bells University of Technology.
